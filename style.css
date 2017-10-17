@@ -1,0 +1,47 @@
+body {
+	background-image:url("https://s-media-cache-ak0.pinimg.com/originals/b9/b1/45/b9b1453e7c64ee9ca2f3f8911f4401e9.jpg");
+	background-size:cover;
+	background-repeat:repeat;
+}
+
+h1,h3 {
+	color:black;
+	text-align:center;
+}
+
+h4 {
+	text-align:right;
+	color:white;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.turns {
+	text-align:center;
+	padding-top:5%;
+}
+
+#tic-tac-toe {
+	height:490px;
+  margin-top:5%;
+}
+
+tr {
+	color:white;
+	height:135px;
+}
+
+td {
+	background-color:black;
+	padding:60px;
+	border:10px solid white;
+	font-size:1.5em;
+}
+
+.reset {
+	text-align:center;
+	padding-top:100px;
+}
